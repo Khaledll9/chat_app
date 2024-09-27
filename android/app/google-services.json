@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270318164603",
+    "project_id": "chating-app-4edb5",
+    "storage_bucket": "chating-app-4edb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270318164603:android:165e4e7f98e2d97f41a0de",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnSgqoxfIpLkivZHsw9hQl0Zxj6PMOOlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
